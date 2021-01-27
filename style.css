@@ -1,0 +1,434 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.h-1{
+	font-size: 16.5px;
+	color: white;
+	text-align: center;
+}
+.nav-logo{
+	height: 50px;
+	width: 140px
+}
+
+.nav-item{
+	font-size: 18px;
+	text-align: center;
+}
+ .nav-item a{
+ 	color: black;
+ }
+.banner-1{
+	
+	object-fit: cover;
+width: 100%;
+height: 350px;
+margin-top: 10px;
+	
+}
+.centered-1 {
+  position: absolute;
+  top: 23%;
+  left: 400px;
+  font-size: 25px;
+  transform: translate(-50%, -50%);
+  height: 20px;
+  color: black;
+
+}
+.centered-2 {
+  position: absolute;
+  top: 35%;
+  left: 485px;
+  font-size: 18px;
+  transform: translate(-50%, -50%);
+  
+  color: black;
+
+}
+.centered-3 {
+  position: absolute;
+  top: 50%;
+  left: 485px;
+  font-size: 18px;
+  transform: translate(-50%, -50%);
+  
+  color: black;
+
+}
+.centered-3 a {
+	color: black;
+	margin-right: 240px;
+}
+.user-1{
+	height: 20px;
+	width: 20px;
+
+}
+.navbar{
+	text-align: center;
+	height: 40px;
+
+}
+.banner-2{
+	
+	object-fit: cover;
+width: 100%;
+height: 650px;
+margin-top: 10px;
+}
+.navbar-nav{
+	margin-bottom: 10px;
+}
+.centered-4 {
+  position: absolute;
+  top: 100%;
+  left: 485px;
+  font-size: 25px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: black;
+
+}
+.centered-5 {
+  position: absolute;
+  top: 105%;
+  left: 385px;
+  font-size: 18px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: black;
+
+}
+.centered-6 {
+  position: absolute;
+  top: 108%;
+  left: 380px;
+  font-size: 18px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: black;
+
+}
+.centered-7 {
+  position: absolute;
+  top: 115%;
+  left: 368px;
+  font-size: 25px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: black;
+
+}
+.centered-8 {
+  position: absolute;
+  top: 130%;
+  left: 320px;
+  font-size: 15px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: black;
+
+}
+.center-1{
+	margin-top: 200px
+}
+
+.btn{
+	position: relative;
+	top: 60%;
+	left: 390px;
+}
+.bttn{
+  
+  border: 2px solid black;
+  background: transparent;
+  
+  width: 150px;
+  height: 50px;
+  position: absolute;
+  top: 123%;
+  left: 350px;
+  font-size: 20px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: black;
+  border-radius: 8px;
+}
+.banner-3{
+	
+	object-fit: cover;
+width: 100%;
+height: 650px;
+
+}
+.centered-9 {
+  position: absolute;
+  top: 190%;
+  left: 425px;
+  font-size: 35px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: black;
+
+}
+.centered-10 {
+  position: absolute;
+  top: 194%;
+  left: 383px;
+  font-size: 19px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: black;
+}
+.centered-11 {
+  position: absolute;
+  top: 200%;
+  left: 400px;
+  font-size: 25px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: black;
+
+}
+.bttn-1{
+  
+  border: 2px solid black;
+  background: transparent;
+  
+  width: 150px;
+  height: 50px;
+  position: absolute;
+  top: 209%;
+  left: 370px;
+  font-size: 20px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: black;
+  border-radius: 8px;
+}
+.centered-12 {
+  position: absolute;
+  top: 215%;
+  left: 350px;
+  font-size: 15px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: black;
+
+}
+
+.banner-4{
+	
+object-fit: cover;
+width: 100%;
+height: 750px;
+margin-top: 10px;
+
+
+}
+
+.centered-13 {
+  position: absolute;
+  top: 285%;
+  left: 425px;
+  font-size: 35px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: white;
+
+}
+.centered-14 {
+  position: absolute;
+  top: 290%;
+  left: 508px;
+  font-size: 19px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color:white;
+}
+.centered-15 {
+  position: absolute;
+  top: 300%;
+  left: 390px;
+  font-size: 25px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: white;
+
+}
+.bttn-2{
+  
+  border: 2px solid white;
+  background: transparent;
+  
+  width: 150px;
+  height: 50px;
+  position: absolute;
+  top: 309%;
+  left: 376px;
+  font-size: 20px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: white;
+  border-radius: 8px;
+}
+.centered-16{
+  position: absolute;
+  top: 317%;
+  left: 350px;
+  font-size: 15px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: white;
+
+}
+.banner-5{
+margin-top: 200px;
+object-fit: cover;
+width: 100%;
+height: 850px;
+margin-top: 10px
+
+}
+.centered-17 {
+  position: absolute;
+  top: 385%;
+  left: 425px;
+  font-size: 35px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: white;
+
+}
+.centered-18 {
+  position: absolute;
+  top: 390%;
+  left: 505px;
+  font-size: 19px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color:white;
+}
+.centered-19 {
+  position: absolute;
+  top: 395%;
+  left: 390px;
+  font-size: 25px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: white;
+
+}
+.bttn-3{
+  
+  border: 2px solid white;
+  background: transparent;
+  
+  width: 150px;
+  height: 50px;
+  position: absolute;
+  top: 403%;
+  left: 376px;
+  font-size: 20px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: white;
+  border-radius: 8px;
+}
+.centered-20{
+  position: absolute;
+  top: 410%;
+  left: 350px;
+  font-size: 15px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: white;
+
+}
+.banner-6{
+margin-top: 200px;
+object-fit: cover;
+width: 100%;
+height: 850px;
+margin-top: 10px
+
+}
+.centered-21 {
+  position: absolute;
+  top: 490%;
+  left: 425px;
+  font-size: 35px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color:black;
+
+}
+.centered-22 {
+  position: absolute;
+  top: 495%;
+  left: 386px;
+  font-size: 19px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color:black
+}
+.centered-23 {
+  position: absolute;
+  top: 504%;
+  left: 400px;
+  font-size: 25px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: black;
+
+}
+.bttn-4{
+  
+  border: 2px solid white;
+  background: transparent;
+  
+  width: 150px;
+  height: 50px;
+  position: absolute;
+  top: 512%;
+  left: 330px;
+  font-size: 20px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color:black;
+  border-radius: 8px;
+}
+.centered-24{
+  position: absolute;
+  top: 519%;
+  left: 350px;
+  font-size: 15px;
+  transform: translate(-50%, -50%);
+  font-weight: 0px;
+  color: black;
+
+}
+.img-cat-1{
+	height: 500px;
+	width: 90%;
+}
+.img-cat-2{
+	height: 500px;
+	width: 90%;
+}
+
+.zoom {
+  padding: 50px;
+ 
+  transition: transform .1s; /* Animation */
+  width: auto;
+  height: 510px;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
